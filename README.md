@@ -5,7 +5,7 @@ A role-based web application that connects **food donors, NGOs, volunteers, and 
 ---
 ## 🚀 Live Demo
 
-🔗 **Website:** [https://food-rescue-platform-5fhe3cymsxvrnje8gfxvuw.streamlit.app/](https://food-rescue-platform-5fhe3cymsxvrnje8gfxvuw.streamlit.app/)
+🔗 **Website:** (https://food-rescue-platform-5fhe3cymsxvrnje8gfxvuw.streamlit.app/)
 
 ---
 
