@@ -257,6 +257,8 @@ if st.session_state.page == "ngo_dashboard":
                 <p><b>Address:</b> {food['address']}</p>
                 <p><b>Phone:</b> {food['phone']}</p>
                 <p><b>Quantity:</b> {food['quantity_kg']} kg</p>
+                <p><b>Posted:</b> {food.get('posted_at', 'N/A')}</p>
+                <p><b>Expiry:</b> {food['expiry_time']}</p>
                 <p><b>Status:</b> 🟢 {food['status']}</p>
                 </div>
                 """,
@@ -307,6 +309,8 @@ if st.session_state.page == "ngo_dashboard":
             <p><b>Phone:</b> {req['phone']}</p>
             <p><b>People:</b> {req['people']}</p>
             <p><b>Meal:</b> {req['meal_type']}</p>
+            <p><b>Food Needed:</b> {req['quantity']} kg</p>
+            <p><b>Date:</b> {req['date']}</p>
             <p><b>Status:</b> 🔵 {req['status']}</p>
             </div>
             """,
