@@ -10,7 +10,7 @@ Large amounts of surplus food from hotels and events go to waste, while orphanag
 
 ---
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 Food Rescue Platform is a web-based social impact application that connects Donors, NGOs, Volunteers, and Orphanages to reduce food wastage and ensure surplus food reaches people in need.
 
@@ -61,14 +61,14 @@ All stakeholders interact through a **single live web application**.
 - Mark Food as Delivered
 - Delivery Tracking with Timestamp History
   
-##🏠 Orphanage Module
+## 🏠 Orphanage Module
 - Login with NGO-Assigned Credentials
 - Submit Food Requirements
 - Request Quantity & Meal Type
 - Track Request Status
 - Receive Food Deliveries
   
-📊 Tracking & Transparency
+## 📊 Tracking & Transparency
 - Timestamp-Based Activity Tracking
 - Food Status History
 - Volunteer Delivery Tracking
@@ -128,18 +128,26 @@ Each role has a dedicated dashboard with controlled access and real-time status 
 
 <img width="1505" height="827" alt="image" src="https://github.com/user-attachments/assets/ecd4b2e1-43b2-4956-a303-91f3a56a4cd0" />
 
+
+
 <img width="691" height="687" alt="image" src="https://github.com/user-attachments/assets/192613ba-8806-457e-85c9-90638563ea39" />
+
 
 
 ## NGO Dashboard
 
 <img width="1572" height="791" alt="image" src="https://github.com/user-attachments/assets/5192b966-6940-4d62-898b-1ef283aedfd7" />
 
+
+
+
 <img width="725" height="848" alt="image" src="https://github.com/user-attachments/assets/df2564e8-2b60-4963-9e9f-c4206580ae92" />
+
 
 # NGO Assigns volunteer for delivery
 
 <img width="1737" height="851" alt="image" src="https://github.com/user-attachments/assets/9a5ca62b-7513-43ef-89c0-474f5bf26731" />
+
 
 # NGO can track the activity of the volunteer
 
@@ -151,12 +159,17 @@ Each role has a dedicated dashboard with controlled access and real-time status 
 
 <img width="1707" height="832" alt="image" src="https://github.com/user-attachments/assets/39e70eb4-59f3-44a1-a9e0-f799288def67" />
 
+
+
 <img width="545" height="335" alt="image" src="https://github.com/user-attachments/assets/1798b378-1a4b-4775-87db-1f114a28d2bd" />
+
 
 
 ## Volunteer Dashboard
 
 <img width="1670" height="848" alt="image" src="https://github.com/user-attachments/assets/86fc5469-1796-4971-8c15-22a19417bc50" />
+
+
 
 <img width="1202" height="582" alt="image" src="https://github.com/user-attachments/assets/efcb5ffa-3eaf-45ae-9b26-a31580e3c807" />
 
