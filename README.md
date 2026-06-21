@@ -18,6 +18,10 @@ The platform enables donors to post excess food, NGOs to coordinate rescue opera
 
 Built using Python, Streamlit, and JSON-based data storage, the project focuses on simplicity, usability, transparency, and community impact.
 
+---
+
+## Loom video: https://www.loom.com/share/9287f54436114cb1a7a98a4a2d55a8a4
+
 ## 💡 Solution
 
 The Food Rescue Platform provides a centralized system where:
